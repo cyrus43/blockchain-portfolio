@@ -14,7 +14,7 @@ request
 readline
 Usage
 
-Clone the repository and run the following command in your terminal to install the required modules:
+<h2>Clone the repository and run the following command in your terminal to install the required modules:</h2>
 
 npm install
 
