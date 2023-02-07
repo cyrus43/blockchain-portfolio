@@ -1,8 +1,8 @@
-Portfolio Value Calculator
+<h1>Portfolio Value Calculator</h1>
 
 A simple application that helps to calculate the portfolio value for a user based on the cryptocurrency data in a CSV file. The portfolio value can be calculated for different cases like, for a specific date or a specific token or for a combination of both.
 
-Requirements
+<h1>Requirements</h1>
 
 To run this application, you need the following:
 
@@ -17,7 +17,6 @@ Usage
 Clone the repository and run the following command in your terminal to install the required modules:
 
 npm install
-
 
 Once the modules are installed, run the following command in your terminal to start the application:
 
